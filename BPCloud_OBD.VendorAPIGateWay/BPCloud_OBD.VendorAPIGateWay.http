@@ -1,0 +1,6 @@
+@BPCloud_OBD.VendorAPIGateWay_HostAddress = http://localhost:5183
+
+GET {{BPCloud_OBD.VendorAPIGateWay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

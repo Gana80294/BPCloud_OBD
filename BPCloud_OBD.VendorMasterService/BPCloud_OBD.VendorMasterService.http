@@ -1,0 +1,6 @@
+@BPCloud_OBD.VendorMasterService_HostAddress = http://localhost:5109
+
+GET {{BPCloud_OBD.VendorMasterService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
